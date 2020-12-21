@@ -2,4 +2,7 @@
 This is a new file which was untracked in the beginning.
 
 11:48
-Damn, the last modification was deleted! Not lets make a new one!
+Damn, the last modification was deleted! Now lets make a new one!
+
+12:32
+another modification!
