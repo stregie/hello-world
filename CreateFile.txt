@@ -6,3 +6,6 @@ Damn, the last modification was deleted! Now lets make a new one!
 
 12:32
 another modification!
+
+12:50
+Now I try to commit without opening editor
