@@ -4,3 +4,8 @@ Line 1
 Line 2
 Line 3
 -------[The Original code lasts until this point]-------
+Hotfix starts here
+Line H1
+Line H2
+Line H3
+-------[Hotfix lasts until this point]-------
