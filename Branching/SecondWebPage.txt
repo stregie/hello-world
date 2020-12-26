@@ -8,4 +8,6 @@ Line 3
 Issue54 starts here
 Line 1
 Line 2
+Line 3
+Line 4 - Issue 54 finished
 ---[Issue54 finishes here]---
