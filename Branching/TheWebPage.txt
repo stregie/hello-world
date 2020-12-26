@@ -4,8 +4,21 @@ Line 1
 Line 2
 Line 3
 -------[The Original code lasts until this point]-------
+
 Hotfix starts here
 Line H1
 Line H2
 Line H3
 -------[Hotfix lasts until this point]-------
+
+Now I start working on Issue 53.
+Line I-53 1
+Line I-53 2
+
+I also finish the Issue 53.
+Line I-53 3
+Line I-53 4
+
+Plus a decoration. --<--{@
+-------[The Issue 53 lasts until this point]-------
+
